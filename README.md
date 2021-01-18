@@ -22,5 +22,10 @@ To convert infix expression to postfix expression, we will use the stack data st
 
 3. Queue.
 
+•	A queue is a data structure which uses FIFO order.
+•	Operating System uses queue for job scheduling.
+•	To handle congestion in networking queue can be used.
+•	Data packets in communication are arranged in queue format.
+
 
 
