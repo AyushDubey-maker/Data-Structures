@@ -10,4 +10,17 @@ As size of linked list can increase or decrease at run time so there is no memor
 Data structures such as stack and queues can be easily implemented using linked list.
 
 2. Stack.
+
+A stack is a data structure which uses LIFO order.
+Some Applications of a stack are:
+•	Converting infix to postfix expressions.
+To convert infix expression to postfix expression, we will use the stack data structure. By scanning the infix expression from left to right, when we will get any operand, simply add them to the postfix form, and for the operator and parenthesis, add them in the stack maintaining the precedence of them.
+•	Undo operation is also carried out through stacks.
+•	Syntaxes in languages are parsed using stacks.
+•	It is used in many virtual machines like JVM.
+ (JVM) is an engine that provides runtime environment to drive the Java Code or applications.
+
 3. Queue.
+
+
+
